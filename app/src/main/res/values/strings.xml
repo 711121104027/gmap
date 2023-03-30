@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gmap</string>
+    <string name="google_map">Google Map</string>
+    <string name="text">these is the duraisaravanakkumar location in these place he will living</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
